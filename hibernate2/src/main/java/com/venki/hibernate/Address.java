@@ -1,5 +1,6 @@
 package com.venki.hibernate;
 
+
 import javax.persistence.*;
 import javax.persistence.Column;
 import javax.persistence.Entity;
